@@ -1,0 +1,22 @@
+.my-main-container{
+    display: flex;
+    height: 100vh;
+    position: fixed;
+    width: 100%;
+
+}
+.my-first-container{
+    display: flex;
+    background-color: rgb(226, 238, 248);
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    
+}
+.my-second-container{
+    display: flex;
+    background-color: rgb(211, 248, 248);
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}

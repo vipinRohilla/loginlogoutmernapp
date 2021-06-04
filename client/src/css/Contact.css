@@ -1,0 +1,31 @@
+@media only screen and (max-width: 640px){
+    .signupimage{
+        height: 22rem;
+    }
+    .first-container {
+        width: 80%;
+    }
+}
+@media only screen and (max-width: 440px){
+    .signupimage{
+        height: 15rem;
+    }
+}
+@media only screen and (max-width: 340px){
+    .signupimage{
+        height: 12rem;
+    }
+}
+@media only screen and (max-width: 280px){
+    .signupimage{
+        height: 8rem;
+    }
+}
+
+
+@media only screen and (max-width: 640px){
+    .main-container-container{
+        margin: 20px;
+    }
+}
+
